@@ -17,6 +17,7 @@ jarvis md is Multi Device whatsapp bot based on X-Asena
 3. Now Deploy
     <br>
 <a href='https://jarvis.lokiser.xyz/heroku.html' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+![1730874272619](https://github.com/user-attachments/assets/3929b648-ed46-4cf7-b299-4489a92af4d1)
 
 
 #### DEPLOY TO RAILWAY
